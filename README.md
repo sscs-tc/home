@@ -1,7 +1,8 @@
 # SSCS_TC
 
 ## 更新流程
-這是用 [React](https://reactjs.org/) 所製作的網頁，更新的流程是：
+這是用 [React](https://reactjs.org/) 所製作的網頁，用github及雲端資料，希望能讓一屆一屆碩士生更好傳承維護。
+更新的流程是：
 1. 更動 `json > data.json` 中的內容。
 2. 將網頁重新compile。
 3. 將網頁更新至網路上。
@@ -68,3 +69,29 @@
 到這邊即完成了新增文章的編輯動作。
 
 
+## 2. 將網頁重新compile， 3. 將網頁更新至網路上
+
+0. 前置作業：(安裝 node)[https://nodejs.org/en/download/]
+裝好後在 terminal 輸入 `npm --version`，如果有出現數字就是成功了～
+
+
+1. cd 至 `home/`（這整份code的根目錄） 在 terminal 輸入
+```
+npm install
+```
+
+2. (optional) 檢查確定剛剛改的是對的。在 terminal 輸入
+```
+npm start
+```
+打開瀏覽器，輸入網址 `localhost:3000`，如果能看見網頁就沒問題了。如果有問題的話請回去檢查`data.json`的內容是不是有輸入錯誤的地方。
+
+3. 在 terminal 輸入
+```
+npm run build
+```
+
+4. 在 terminal 輸入
+```
+npm run deploy
+```

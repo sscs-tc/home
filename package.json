@@ -1,5 +1,5 @@
 {
-  "name": "sscs_tc",
+  "name": "home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://vivianchan1998.github.io/sscs_tc/"
+  "homepage": "https://sscs-tc.github.io/home/"
 }

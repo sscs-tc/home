@@ -35,7 +35,7 @@ function EventTypes(props) {
         <div className="eventnews-type">
             <h3>{props.tag}</h3>
             {
-                props.posts.map( e => <EventTitle data={e} /> )
+                props.posts.map( (e, id) =>  <EventTitle data={e} id={id} />)
             }
         </div>
     )
@@ -47,8 +47,17 @@ function EventTitle(props) {
         <div className='eventnews'>
             <Link to={`/${props.data["id"]}`}>
                 <span className='eventnews-date'> {props.data["date"]} </span>
+                {props.id < 3? <NewTag />:''}
                 <span className='eventnews-title'> {props.data["title"]} </span>
             </Link>
         </div>
+    )
+}
+
+function NewTag(props) {
+    return(
+        <span className="newtag">
+            new
+        </span>
     )
 }

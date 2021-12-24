@@ -146,3 +146,10 @@
     text-decoration: underline;
     color: #7FB7BE;
 }
+
+.newtag {
+    border-radius: 20px;
+    background-color: #7FB7BE;
+    padding: 0 5px 0 5px;
+    color: white;
+}

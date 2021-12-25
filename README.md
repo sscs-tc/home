@@ -76,8 +76,9 @@
 
 ## 2. 將網頁重新compile 及 3. 將網頁更新至網路上
 
-0. 前置作業：(安裝 node)[https://nodejs.org/en/download/]
-裝好後在 terminal 輸入 `npm --version`，如果有出現數字就是成功了～
+0. 前置作業：
+    - (安裝 node)[https://nodejs.org/en/download/] ，裝好後在 terminal 輸入 `npm --version`，如果有出現數字就是成功了～
+    - 將自己的 github 帳號加入 collaborator
 
 
 1. cd 至 `home/`（這整份code的根目錄） 在 terminal 輸入

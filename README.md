@@ -78,6 +78,7 @@
 
 0. 前置作業：
     - (安裝 node)[https://nodejs.org/en/download/] ，裝好後在 terminal 輸入 `npm --version`，如果有出現數字就是成功了～
+    - 目前確定npm version 6.14.4是可以支援的，如果後續進行網頁更新遇到問題，請確認npm版本，太新版本的npm會遇到一些問題
     - 將自己的 github 帳號加入 collaborator
 
 
@@ -85,7 +86,8 @@
     ```
     npm install
     ```
-
+    
+      
 2. (optional) 檢查確定剛剛改的是對的。在 terminal 輸入
     ```
     npm start

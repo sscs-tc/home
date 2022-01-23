@@ -3,8 +3,7 @@ import {Switch, Route, Link} from 'react-router-dom'
 import { createBrowserHistory } from 'history';
 import './App.css';
 import './style.css'
-import Overview from './Container/OverView'
-import MD from './Component/MD.jsx'
+import './Container/container_style.css'
 import data from './json/data.json'
 import Events from './Component/Events'
 import EventNews from './Container/EventNews';

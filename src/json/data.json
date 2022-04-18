@@ -2,7 +2,7 @@
     "index": ["post20220506", "post20211207", "post20211115", "post20211026", "post20211018", "post20210617", "post20210430", "post20210413","post20210201","post20201118","post20201015",
         "post20200814","post20200117","post20191203_1","post20191203_2","post20191121"],
     "tags": ["Technical Talks", "Workshop", "Press Conference", "Awards"],
-        "posts": {
+    "posts": {
         "post20220506":{
             "id": "post20220506",
             "tag": "Press Conference",
@@ -22,7 +22,6 @@
             "link": "海報連結",
             "url": "https://drive.google.com/file/d/12GYrAyiyBpbS3wpZlOQFQKubL_WG9eLP/view?usp=sharing"
         },
-    "posts": {
         "post20211207":{
             "id": "post20211207",
             "tag": "Technical Talks",

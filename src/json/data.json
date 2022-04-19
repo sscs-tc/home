@@ -5,7 +5,7 @@
     "posts": {
         "post20220506":{
             "id": "post20220506",
-            "tag": "Press Conference",
+            "tag": "Workshop",
             "date":"2022/05/06",
             "imgurl": "https://imgur.com/axNp0s2.jpeg",
             "title":"2022 ISSCC 論文趨勢論壇",
@@ -121,7 +121,7 @@
         },
         "post20210413":{
             "id": "post20210413",
-            "tag": "Press Conference",
+            "tag": "Workshop",
             "date":"2021/04/13",
             "imgurl": "https://imgur.com/AF9Oxqm.jpg",
             "title":"2021 ISSCC論文分享會",

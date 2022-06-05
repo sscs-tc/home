@@ -1,5 +1,5 @@
 {
-    "index": ["post20220506", "post20211207", "post20211115", "post20211026", "post20211018", "post20210617", "post20210430", "post20210413","post20210201","post20201118","post20201015",
+    "index": ["post20220506", "post20220127", "post20211207", "post20211115", "post20211026", "post20211018", "post20210617", "post20210430", "post20210413","post20210201","post20201118","post20201015",
         "post20200814","post20200117","post20191203_1","post20191203_2","post20191121"],
     "tags": ["Technical Talks", "Workshop", "Press Conference", "Awards"],
     "posts": {
@@ -12,15 +12,23 @@
             "content":[
                 "國際固態電路研討會（International Solid-State Circuits Conference，ISSCC）是目前全球最權威的固態電路國際會議，素有晶片(IC)設計領域奧林匹克大會之稱。會中錄用和發佈全球最新、最領先的晶片技術，同時也代表了積體電路產業的發展趨勢。在 ISSCC 會議上發表的論文數量和覆蓋領域，反映了在半導體技術領域的地位和發展水準。",
                 "為了促進IC人才培養，IEEE SSCS Taipei Chapter將邀請學界教授及聯發科技相關領域專家，針對2022 ISSCC各項技術研究發展趨勢做精闢的介紹，歡迎相關領域之學界師生和業界朋友踴躍參與，共同切磋。",
-                "報名網址：https://forms.gle/ntDh2NZQyfcqt2XA9  報名截止至5月3日(二)",
                 "活動日期：2022年5月6日(五) 9:20 - 16:40",
-                "活動方式：webex線上會議",
                 "主辦單位: IEEE SSCS Taipei Chapter",
                 "贊助單位: 聯發科技股份有限公司",
                 "協辦單位: 聯發科技-臺大創新研究中心、臺大電子所、臺大系統晶片中心"
             ],
             "link": "海報連結",
             "url": "https://drive.google.com/file/d/12GYrAyiyBpbS3wpZlOQFQKubL_WG9eLP/view?usp=sharing"
+        },
+            "post20220127":{
+            "id": "post20220127",
+            "tag": "Technical Talks",
+            "date":"2022/01/27",
+            "imgurl": "",
+            "title":"SSCS Taipei Chapter Membership Drive",
+            "content":["為鼓勵學生加入IEEE SSCS，台北分會於1月27日規劃一場Membership Drive，會中備有餐食飲料，並由主席林宗賢教授介紹入會的益處。"],
+            "link": "",
+            "url": ""
         },
         "post20211207":{
             "id": "post20211207",

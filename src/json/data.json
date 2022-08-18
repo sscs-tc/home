@@ -1,8 +1,22 @@
 {
-    "index": ["post20220506", "post20220127", "post20211207", "post20211115", "post20211026", "post20211018", "post20210617", "post20210430", "post20210413","post20210201","post20201118","post20201015",
+    "index": ["post20220802", "post20220506", "post20220127", "post20211207", "post20211115", "post20211026", "post20211018", "post20210617", "post20210430", "post20210413","post20210201","post20201118","post20201015",
         "post20200814","post20200117","post20191203_1","post20191203_2","post20191121"],
     "tags": ["Technical Talks", "Workshop", "Press Conference", "Awards"],
     "posts": {
+            "post20220802":{
+            "id": "post20220802",
+            "tag": "Awards",
+            "date":"2022/08/02",
+            "imgurl": "",
+            "title":"國際電機電子工程師學會中華民國分會(IEEE Taipei Section) 111年碩、博士論文獎",
+            "content":["宗旨：為激勵國內IEEE台北分會學生會員對於相關領域研究工作之投入，尋找各專業領域明日之星，特設置碩、博士論文獎。",
+            "欲申請由SSCS Taipei Chapter推薦者，請申請人備妥以下資料，繳交電子檔至本支會 sscstpe@gmail.com",
+            "本支會111年度送件截止日：111/10/31 (一)","1. 申請人簡歷表 (PDF格式，格式不拘) 2. 畢業論文 (PDF格式) 3. 畢業證書 (PDF格式) 4. 指導教授或相關領域專家推薦函。(PDF格式，格式不拘) 5. IEEE 會員證明 (PDF格式) *提醒：必須是SSCS支會會員",
+            "備註：「IEEE中華民國分會碩、博士論文獎申請辦法」請參考附件。"
+            ],
+            "link": "附件",
+            "url": "https://drive.google.com/file/d/1mj0J3Gh3snzntOP0jA6WgGp6ClqKjEsy/view?usp=sharing"
+        },
         "post20220506":{
             "id": "post20220506",
             "tag": "Workshop",
